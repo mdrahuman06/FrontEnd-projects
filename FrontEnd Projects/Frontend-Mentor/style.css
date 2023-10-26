@@ -1,0 +1,43 @@
+
+.container .nav{
+    display: flex;
+    
+}
+.container nav ul li {
+    float: left;
+    margin-left: 10pt;
+    font-size: 13pt;
+}
+.container nav h3{
+    position: absolute;
+    left: 0;
+    margin-left:;
+}
+.container nav ul li{
+    display: inline-block;
+    padding: 10px;
+}
+.container nav ul li a{
+    text-decoration: none;
+    color:black;
+}
+#github{
+            width:17%;
+            background-color:red;
+            margin-top: 10px;
+            border-radius: 30px;
+            margin-left: 5px;
+            padding: 9px;
+            color:#fff;
+            font-size: 15pxpx; 
+}
+.icon{
+    width: 60px;
+    height: 60px;
+    padding-left: 120px;
+}
+footer{
+    padding-left: 50%;
+    padding-top: 15%;
+    color: red;
+}
